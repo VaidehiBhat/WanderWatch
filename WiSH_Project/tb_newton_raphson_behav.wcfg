@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_newton_raphson_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_newton_raphson" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="520000001fs"></ZoomEndTime>
+      <Cursor1Time time="820000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="229"></NameColumnWidth>
+      <ValueColumnWidth column_width="248"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="13" />
+   <wvobject fp_name="/tb_newton_raphson/s" type="array">
+      <obj_property name="ElementShortName">s[15:0]</obj_property>
+      <obj_property name="ObjectShortName">s[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_newton_raphson/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_newton_raphson/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_newton_raphson/result" type="array">
+      <obj_property name="ElementShortName">result[15:0]</obj_property>
+      <obj_property name="ObjectShortName">result[15:0]</obj_property>
+      <obj_property name="Radix">REALRADIX</obj_property>
+      <obj_property name="radix_realType">SIGNEDFIXEDPOINTRADIX</obj_property>
+      <obj_property name="radix_fractionWidth">10</obj_property>
+      <obj_property name="radix_otherWidth">0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_newton_raphson/xn" type="array">
+      <obj_property name="ElementShortName">xn[15:0]</obj_property>
+      <obj_property name="ObjectShortName">xn[15:0]</obj_property>
+      <obj_property name="Radix">REALRADIX</obj_property>
+      <obj_property name="radix_realType">SIGNEDFIXEDPOINTRADIX</obj_property>
+      <obj_property name="radix_fractionWidth">10</obj_property>
+      <obj_property name="radix_otherWidth">0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_newton_raphson/itercount" type="array">
+      <obj_property name="ElementShortName">itercount[4:0]</obj_property>
+      <obj_property name="ObjectShortName">itercount[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_newton_raphson/state" type="array">
+      <obj_property name="ElementShortName">state[2:0]</obj_property>
+      <obj_property name="ObjectShortName">state[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_newton_raphson/divisor" type="array">
+      <obj_property name="ElementShortName">divisor[15:0]</obj_property>
+      <obj_property name="ObjectShortName">divisor[15:0]</obj_property>
+      <obj_property name="Radix">REALRADIX</obj_property>
+      <obj_property name="radix_realType">SIGNEDFIXEDPOINTRADIX</obj_property>
+      <obj_property name="radix_fractionWidth">10</obj_property>
+      <obj_property name="radix_otherWidth">0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_newton_raphson/dividend" type="array">
+      <obj_property name="ElementShortName">dividend[15:0]</obj_property>
+      <obj_property name="ObjectShortName">dividend[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_newton_raphson/rst_for_div" type="logic">
+      <obj_property name="ElementShortName">rst_for_div</obj_property>
+      <obj_property name="ObjectShortName">rst_for_div</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_newton_raphson/div_result" type="array">
+      <obj_property name="ElementShortName">div_result[15:0]</obj_property>
+      <obj_property name="ObjectShortName">div_result[15:0]</obj_property>
+      <obj_property name="Radix">REALRADIX</obj_property>
+      <obj_property name="radix_realType">SIGNEDFIXEDPOINTRADIX</obj_property>
+      <obj_property name="radix_fractionWidth">10</obj_property>
+      <obj_property name="radix_otherWidth">0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_newton_raphson/divdone" type="logic">
+      <obj_property name="ElementShortName">divdone</obj_property>
+      <obj_property name="ObjectShortName">divdone</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_newton_raphson/WIDTH" type="array">
+      <obj_property name="ElementShortName">WIDTH[31:0]</obj_property>
+      <obj_property name="ObjectShortName">WIDTH[31:0]</obj_property>
+   </wvobject>
+</wave_config>

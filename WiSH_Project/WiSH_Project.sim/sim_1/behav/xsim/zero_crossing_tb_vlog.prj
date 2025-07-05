@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../WiSH_Project.srcs/sources_1/new/zero_crossing_rate.v" \
+"../../../../WiSH_Project.srcs/sources_1/new/zero_crossing_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

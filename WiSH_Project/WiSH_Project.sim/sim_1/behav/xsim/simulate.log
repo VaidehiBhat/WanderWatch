@@ -1,0 +1,45 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+in state Unpack
+temp_arr[i] = fc00
+temp_arr[i] = 0400
+temp_arr[i] = f800
+temp_arr[i] = 0800
+temp_arr[i] = f400
+temp_arr[i] = 0c00
+temp_arr[i] = f000
+temp_arr[i] = 1000
+temp_arr[i] = ec00
+temp_arr[i] = 1400
+in state Count
+i is =     1 , counter is     1
+i is =     2 , counter is     2
+i is =     3 , counter is     3
+i is =     4 , counter is     4
+i is =     5 , counter is     5
+i is =     6 , counter is     6
+i is =     7 , counter is     7
+i is =     8 , counter is     8
+i is =     9 , counter is     9
+in state done
+zero_crossing_rate=    9
+in state done
+zero_crossing_rate=    9
+in state done
+zero_crossing_rate=    9
+in state done
+zero_crossing_rate=    9
+in state done
+zero_crossing_rate=    9
+in state done
+zero_crossing_rate=    9
+in state done
+zero_crossing_rate=    9
+in state done
+zero_crossing_rate=    9
+Zero Crossing Rate =     9
+in state done
+zero_crossing_rate=    9
+in state done
+zero_crossing_rate=    9
+$finish called at time : 130 ns : File "D:/Vaidehi Bhat folder/WiSH_Project/WiSH_Project.srcs/sources_1/new/zero_crossing_tb.v" Line 56

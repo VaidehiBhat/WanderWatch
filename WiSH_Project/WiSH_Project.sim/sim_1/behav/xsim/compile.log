@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vaidehi Bhat folder/WiSH_Project/WiSH_Project.srcs/sources_1/new/zero_crossing_rate.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module zero_crossing_rate
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vaidehi Bhat folder/WiSH_Project/WiSH_Project.srcs/sources_1/new/zero_crossing_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module zero_crossing_tb

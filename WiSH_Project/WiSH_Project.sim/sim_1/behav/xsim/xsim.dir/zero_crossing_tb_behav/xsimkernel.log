@@ -1,0 +1,7 @@
+Running: xsim.dir/zero_crossing_tb_behav/xsimk.exe -simmode gui -wdb zero_crossing_tb_behav.wdb -simrunnum 0 -socket 51355
+Design successfully loaded
+Design Loading Memory Usage: 7824 KB (Peak: 7824 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 8512 KB (Peak: 8512 KB)
+Simulation CPU Usage: 46 ms
