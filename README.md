@@ -72,7 +72,7 @@ This entire processing chain was written in **Verilog HDL**, synthesized and ver
 ## 📁 Repository Contents
 
 - `WiSH Project.pdf` — Complete project presentation including system architecture, sensor details, power budget, and implementation methodology  
-- `ASIC Implementation of IMU data/` — All relevant **Xilinx Vivado project files**, including RTL, simulation, synthesis, and constraint files
+- `WiSH_Project/` — All relevant **Xilinx Vivado project files**, including RTL, simulation, synthesis, and constraint files of ASIC Implementation of IMU Data
 
 ---
 
